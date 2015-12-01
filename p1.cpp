@@ -170,6 +170,7 @@ int detect(Mat &in, Mat &line, Mat &circle) {
 	int count = 0;
 	int total = 0;
 	int totalmax = 0;
+	int size = in.cols * in.rows;
 	for (int i = 0; i < in.rows-5; i++) {
 		for (int j = 0; j < in.cols-5; j++) {
 		//	in.at<Vec3b>(i,j)[2] = 255;
@@ -187,9 +188,7 @@ int detect(Mat &in, Mat &line, Mat &circle) {
 						cmax = circle.at<uchar>(i+x,j+y);
 				}
 			}
-
-			//printf("%d %d\n",lcount,ccount);
-			if (lmax+cmax*1.5 > 200 && lcount + ccount > 3000 && lcount > 100) {
+			if (lmax*500 > size && cmax*400 > size) {
 				// printf("%d %d\n", lcount, ccount);
 				return 1;
 				count++;
@@ -497,9 +496,9 @@ Mat houghcircle(Mat &input) {
 			}
 		}
 	}*/
-	char buffer[20];
-	sprintf(buffer, "circle%d.jpg", output.rows);
-	imwrite(buffer, output);
+	// char buffer[20];
+	// sprintf(buffer, "circle%d.jpg", output.rows);
+	// imwrite(buffer, output);
 	count++;
 	return output;
 }
