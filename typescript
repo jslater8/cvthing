@@ -1,0 +1,2622 @@
+Script started on Mon 30 Nov 2015 23:41:24 GMT
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python script
+2
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 01
+TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test31
+TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test32
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 02
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 01
+TEST
+TEST2
+test1test2test34
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 01
+TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test32
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test37
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 06
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m makepython script
+2
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 01
+TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test31
+TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test32
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 02
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 01
+TEST
+TEST2
+test1test2test34
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test31
+TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test32
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test37
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 06
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python scriptmake[Kpython script[8Plscpu -l -aa[K[Kcd ~/at ~/.bashrc[8Pmake cat ~/.bashrc[8Pd ~/[3Pls -al -a[3Pcpupython scriptmake[Kpython script[Kpython script[Kpython script
+OpenCV Error: Assertion failed (scaleFactor > 1 && _image.depth() == CV_8U) in detectMultiScale, file /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp, line 1320
+terminate called after throwing an instance of 'cv::Exception'
+  what():  /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp:1320: error: (-215) scaleFactor > 1 && _image.depth() == CV_8U in function detectMultiScale
+
+OpenCV Error: Assertion failed (scaleFactor > 1 && _image.depth() == CV_8U) in detectMultiScale, file /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp, line 1320
+terminate called after throwing an instance of 'cv::Exception'
+  what():  /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp:1320: error: (-215) scaleFactor > 1 && _image.depth() == CV_8U in function detectMultiScale
+
+OpenCV Error: Assertion failed (scaleFactor > 1 && _image.depth() == CV_8U) in detectMultiScale, file /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp, line 1320
+terminate called after throwing an instance of 'cv::Exception'
+  what():  /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp:1320: error: (-215) scaleFactor > 1 && _image.depth() == CV_8U in function detectMultiScale
+
+OpenCV Error: Assertion failed (scaleFactor > 1 && _image.depth() == CV_8U) in detectMultiScale, file /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp, line 1320
+terminate called after throwing an instance of 'cv::Exception'
+  what():  /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp:1320: error: (-215) scaleFactor > 1 && _image.depth() == CV_8U in function detectMultiScale
+
+OpenCV Error: Assertion failed (scaleFactor > 1 && _image.depth() == CV_8U) in detectMultiScale, file /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp, line 1320
+terminate called after throwing an instance of 'cv::Exception'
+  what():  /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp:1320: error: (-215) scaleFactor > 1 && _image.depth() == CV_8U in function detectMultiScale
+
+OpenCV Error: Assertion failed (scaleFactor > 1 && _image.depth() == CV_8U) in detectMultiScale, file /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp, line 1320
+terminate called after throwing an instance of 'cv::Exception'
+  what():  /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp:1320: error: (-215) scaleFactor > 1 && _image.depth() == CV_8U in function detectMultiScale
+
+OpenCV Error: Assertion failed (scaleFactor > 1 && _image.depth() == CV_8U) in detectMultiScale, file /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp, line 1320
+terminate called after throwing an instance of 'cv::Exception'
+  what():  /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp:1320: error: (-215) scaleFactor > 1 && _image.depth() == CV_8U in function detectMultiScale
+
+OpenCV Error: Assertion failed (scaleFactor > 1 && _image.depth() == CV_8U) in detectMultiScale, file /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp, line 1320
+terminate called after throwing an instance of 'cv::Exception'
+  what():  /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp:1320: error: (-215) scaleFactor > 1 && _image.depth() == CV_8U in function detectMultiScale
+
+OpenCV Error: Assertion failed (scaleFactor > 1 && _image.depth() == CV_8U) in detectMultiScale, file /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp, line 1320
+terminate called after throwing an instance of 'cv::Exception'
+  what():  /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp:1320: error: (-215) scaleFactor > 1 && _image.depth() == CV_8U in function detectMultiScale
+
+OpenCV Error: Assertion failed (scaleFactor > 1 && _image.depth() == CV_8U) in detectMultiScale, file /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp, line 1320
+terminate called after throwing an instance of 'cv::Exception'
+  what():  /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp:1320: error: (-215) scaleFactor > 1 && _image.depth() == CV_8U in function detectMultiScale
+
+OpenCV Error: Assertion failed (scaleFactor > 1 && _image.depth() == CV_8U) in detectMultiScale, file /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp, line 1320
+terminate called after throwing an instance of 'cv::Exception'
+  what():  /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp:1320: error: (-215) scaleFactor > 1 && _image.depth() == CV_8U in function detectMultiScale
+
+OpenCV Error: Assertion failed (scaleFactor > 1 && _image.depth() == CV_8U) in detectMultiScale, file /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp, line 1320
+terminate called after throwing an instance of 'cv::Exception'
+  what():  /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp:1320: error: (-215) scaleFactor > 1 && _image.depth() == CV_8U in function detectMultiScale
+
+OpenCV Error: Assertion failed (scaleFactor > 1 && _image.depth() == CV_8U) in detectMultiScale, file /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp, line 1320
+terminate called after throwing an instance of 'cv::Exception'
+  what():  /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp:1320: error: (-215) scaleFactor > 1 && _image.depth() == CV_8U in function detectMultiScale
+
+OpenCV Error: Assertion failed (scaleFactor > 1 && _image.depth() == CV_8U) in detectMultiScale, file /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp, line 1320
+terminate called after throwing an instance of 'cv::Exception'
+  what():  /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp:1320: error: (-215) scaleFactor > 1 && _image.depth() == CV_8U in function detectMultiScale
+
+OpenCV Error: Assertion failed (scaleFactor > 1 && _image.depth() == CV_8U) in detectMultiScale, file /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp, line 1320
+terminate called after throwing an instance of 'cv::Exception'
+  what():  /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp:1320: error: (-215) scaleFactor > 1 && _image.depth() == CV_8U in function detectMultiScale
+
+OpenCV Error: Assertion failed (scaleFactor > 1 && _image.depth() == CV_8U) in detectMultiScale, file /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp, line 1320
+terminate called after throwing an instance of 'cv::Exception'
+  what():  /home/jslater/opencv/modules/objdetect/src/cascadedetect.cpp:1320: error: (-215) scaleFactor > 1 && _image.depth() == CV_8U in function detectMultiScale
+
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python script
+5
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 02
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 05
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test31
+TEST
+TEST2
+test1test2test31
+TEST
+TEST2
+test1test2test3COUNT 09
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 02
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 02
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test33
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test33
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 010
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 07
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 06
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 08
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m makepython script
+5
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test32
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test35
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test31
+TEST
+TEST2
+test1test2test31
+TEST
+TEST2
+test1test2test39
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test33
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test32
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test32
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test33
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test33
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test310
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test37
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test33
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test36
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 08
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m makepython script
+5
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test32
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 05
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test31
+TEST
+TEST2
+test1test2test31
+TEST
+TEST2
+test1test2test3COUNT 09
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 02
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 02
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test33
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test33
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 010
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 07
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test33
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 06
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 08
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m makepython script
+1
+TEST
+TEST2
+test1test2test3COUNT 01
+TEST
+TEST2
+test1test2test31
+TEST
+TEST2
+test1test2test30
+1
+TEST
+TEST2
+test1test2test3COUNT 00
+0
+1
+TEST
+TEST2
+test1test2test3COUNT 01
+TEST
+TEST2
+test1test2test31
+TEST
+TEST2
+test1test2test30
+0
+2
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test30
+2
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 04
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m makepython script
+0
+2
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 00
+0
+0
+0
+0
+0
+2
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test30
+0
+1
+TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 00
+5
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 00
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python script
+0
+3
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 02
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 01
+TEST
+TEST2
+test1test2test3COUNT 01
+TEST
+TEST2
+test1test2test3COUNT 02
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test30
+2
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test31
+TEST
+TEST2
+test1test2test30
+1
+TEST
+TEST2
+test1test2test3COUNT 02
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 04
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test32
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 05
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 00
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python script
+2
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 01
+TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1^CTraceback (most recent call last):
+  File "script", line 5, in <module>
+    subprocess.call(['./dart','dartImages/' + files,'dartDetect/' + files[:-4] + 'Output.jpg', 'dartDetect/' + files])
+  File "/usr/lib/python2.7/subprocess.py", line 522, in call
+    return Popen(*popenargs, **kwargs).wait()
+  File "/usr/lib/python2.7/subprocess.py", line 1376, in wait
+    pid, sts = _eintr_retry_call(os.waitpid, self.pid, 0)
+  File "/usr/lib/python2.7/subprocess.py", line 476, in _eintr_retry_call
+    return func(*args)
+KeyboardInterrupt
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python script
+0
+0
+0
+1
+TEST
+TEST2
+test1test2test30
+0
+0
+0
+1
+TEST
+TEST2
+test1test2test30
+0
+0
+3
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test30
+4
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 00
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python script
+2
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 01
+TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test31
+TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test32
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 02
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 01
+TEST
+TEST2
+test1test2test34
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test31
+TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test32
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test37
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 06
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m/home/jslater/Documents/computervision/dart/dart.cpp: In function ‘void detectAndDisplay(cv::Mat, const char*)’:
+/home/jslater/Documents/computervision/dart/dart.cpp:74:23: error: ‘points’ was not declared in this scope
+   for (int j = 0; j < points.size(); j++){
+                       ^
+/home/jslater/Documents/computervision/dart/dart.cpp:106:18: error: ‘output’ was not declared in this scope
+  imwrite(outname,output);
+                  ^
+make[2]: *** [CMakeFiles/dart.dir/dart.cpp.o] Error 1
+make[1]: *** [CMakeFiles/dart.dir/all] Error 2
+make: *** [all] Error 2
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m n[Kmake
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python script
+2
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 01
+TEST
+TEST2
+test1test2test33
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test31
+TEST
+TEST2
+test1test2test33
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test33
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test32
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test32
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test31
+TEST
+TEST2
+test1test2test34
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 01
+TEST
+TEST2
+test1test2test33
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test32
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test37
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test36
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m makepython script
+2
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 01
+TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test31
+TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test32
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 02
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 01
+TEST
+TEST2
+test1test2test34
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 01
+TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 03
+TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test32
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test37
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 06
+TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0TEST
+TEST2
+test1test2test3COUNT 0[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python script
+2
+test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test32
+test1test2test3test1test2test31
+test1test2test34
+test1test2test3test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test37
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test36
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python script
+2
+test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test32
+test1test2test3test1test2test31
+test1test2test34
+test1test2test3test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test37
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test36
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python script
+2
+test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test32
+test1test2test3test1test2test31
+test1test2test34
+test1test2test3test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test37
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test36
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python script
+2
+test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test32
+test1test2test3test1test2test31
+test1test2test34
+test1test2test3test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test37
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test36
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m m[Kpython script
+2
+test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test32
+test1test2test3test1test2test31
+test1test2test34
+test1test2test3test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test37
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test36
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python script
+2
+test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test32
+test1test2test3test1test2test31
+test1test2test34
+test1test2test3test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test37
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test36
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python[Kn script
+2
+test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test32
+test1test2test3test1test2test31
+test1test2test34
+test1test2test3test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test37
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test36
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m makepython script
+2
+test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test32
+test1test2test3test1test2test31
+test1test2test34
+test1test2test3test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test37
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test36
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python script
+2
+test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test32
+test1test2test3test1test2test31
+test1test2test34
+test1test2test3test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test37
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test36
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python script
+2
+test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test32
+test1test2test3test1test2test31
+test1test2test34
+test1test2test3test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test37
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test36
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make python
+make: *** No rule to make target `python'. Stop.
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make[K[K[K[Kpython script
+2
+test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test32
+test1test2test3test1test2test31
+test1test2test34
+test1test2test3test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test37
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test36
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m makepython script
+2
+test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test32
+test1test2test3test1test2test31
+test1test2test34
+test1test2test3test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test37
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test36
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python script
+2
+test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test32
+test1test2test3test1test2test31
+test1test2test34
+test1test2test3test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test37
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test36
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python script
+2
+test1test2test3test1^CTraceback (most recent call last):
+  File "script", line 5, in <module>
+    subprocess.call(['./dart','dartImages/' + files,'dartDetect/' + files[:-4] + 'Output.jpg', 'dartDetect/' + files])
+  File "/usr/lib/python2.7/subprocess.py", line 522, in call
+    return Popen(*popenargs, **kwargs).wait()
+  File "/usr/lib/python2.7/subprocess.py", line 1376, in wait
+    pid, sts = _eintr_retry_call(os.waitpid, self.pid, 0)
+  File "/usr/lib/python2.7/subprocess.py", line 476, in _eintr_retry_call
+    return func(*args)
+KeyboardInterrupt
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m makepython script
+2
+test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test32
+test1test2test3test1test2test31
+test1test2test34
+test1test2test3test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test37
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test36
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m makepython script
+2
+test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test32
+test1test2test3test1test2test31
+test1test2test34
+test1test2test3test1test2test3test1test2test3test1test2test31
+test1test2test33
+test1test2test3test1test2test3test1test2test33
+test1test2test3test1test2test3test1test2test32
+test1test2test3test1test2test37
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test36
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python script
+2
+test1test2test30
+test1test2test30
+1
+test1test2test350600
+3
+test1test2test30
+test1test2test351000
+test1test2test351000
+1
+test1test2test350800
+3
+test1test2test350800
+test1test2test30
+test1test2test350800
+3
+test1test2test350800
+test1test2test350800
+test1test2test350800
+2
+test1test2test350600
+test1test2test30
+2
+test1test2test351000
+test1test2test30
+1
+test1test2test350800
+4
+test1test2test351000
+test1test2test30
+test1test2test351000
+test1test2test30
+1
+test1test2test351000
+3
+test1test2test30
+test1test2test350600
+test1test2test30
+3
+test1test2test350600
+test1test2test30
+test1test2test350600
+2
+test1test2test350600
+test1test2test350600
+7
+test1test2test350600
+test1test2test30
+test1test2test350600
+test1test2test30
+test1test2test350600
+test1test2test30
+test1test2test30
+6
+test1test2test30
+test1test2test351000
+test1test2test30
+test1test2test351000
+test1test2test30
+test1test2test30
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0mIn file included from /home/jslater/Documents/computervision/dart/dart.cpp:13:0:
+/home/jslater/Documents/computervision/dart/p1.cpp: In function ‘int detect(cv::Mat&, cv::Mat&, cv::Mat&)’:
+/home/jslater/Documents/computervision/dart/p1.cpp:204:31: error: ‘y’ was not declared in this scope
+    lcount += line.at<Vec3b>(i,y)[0];
+                               ^
+make[2]: *** [CMakeFiles/dart.dir/dart.cpp.o] Error 1
+make[1]: *** [CMakeFiles/dart.dir/all] Error 2
+make: *** [all] Error 2
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python script
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m makepython script
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0mIn file included from /home/jslater/Documents/computervision/dart/dart.cpp:13:0:
+/home/jslater/Documents/computervision/dart/p1.cpp: In function ‘int detect(cv::Mat&, cv::Mat&, cv::Mat&)’:
+/home/jslater/Documents/computervision/dart/p1.cpp:188:5: error: expected ‘;’ before ‘count’
+     count++;
+     ^
+make[2]: *** [CMakeFiles/dart.dir/dart.cpp.o] Error 1
+make[1]: *** [CMakeFiles/dart.dir/all] Error 2
+make: *** [all] Error 2
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python script
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python scriptmake[K
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m makepython script
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python scriptmake[K
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m makepython script
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python scriptmake[Kpython script
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0mIn file included from /home/jslater/Documents/computervision/dart/dart.cpp:13:0:
+/home/jslater/Documents/computervision/dart/p1.cpp: In function ‘int detect(cv::Mat&, cv::Mat&, cv::Mat&)’:
+/home/jslater/Documents/computervision/dart/p1.cpp:202:30: error: expected ‘;’ before ‘i’
+  for (int i = 0; i < in.rows i++) {
+                              ^
+/home/jslater/Documents/computervision/dart/p1.cpp:204:25: error: ‘y’ was not declared in this scope
+    if (line.at<Vec3b>(i,y)){
+                         ^
+/home/jslater/Documents/computervision/dart/p1.cpp:207:27: error: ‘y’ was not declared in this scope
+    if (circle.at<uchar>(i,y)){
+                           ^
+make[2]: *** [CMakeFiles/dart.dir/dart.cpp.o] Error 1
+make[1]: *** [CMakeFiles/dart.dir/all] Error 2
+make: *** [all] Error 2
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0mIn file included from /home/jslater/Documents/computervision/dart/dart.cpp:13:0:
+/home/jslater/Documents/computervision/dart/p1.cpp: In function ‘int detect(cv::Mat&, cv::Mat&, cv::Mat&)’:
+/home/jslater/Documents/computervision/dart/p1.cpp:202:30: error: expected ‘;’ before ‘i’
+  for (int i = 0; i < in.rows i++) {
+                              ^
+/home/jslater/Documents/computervision/dart/p1.cpp:204:27: error: could not convert ‘(& line)->cv::Mat::at<cv::Vec<unsigned char, 3> >(i, j)’ from ‘cv::Vec<unsigned char, 3>’ to ‘bool’
+    if (line.at<Vec3b>(i,j)){
+                           ^
+make[2]: *** [CMakeFiles/dart.dir/dart.cpp.o] Error 1
+make[1]: *** [CMakeFiles/dart.dir/all] Error 2
+make: *** [all] Error 2
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0mIn file included from /home/jslater/Documents/computervision/dart/dart.cpp:13:0:
+/home/jslater/Documents/computervision/dart/p1.cpp: In function ‘int detect(cv::Mat&, cv::Mat&, cv::Mat&)’:
+/home/jslater/Documents/computervision/dart/p1.cpp:204:27: error: could not convert ‘(& line)->cv::Mat::at<cv::Vec<unsigned char, 3> >(i, j)’ from ‘cv::Vec<unsigned char, 3>’ to ‘bool’
+    if (line.at<Vec3b>(i,j)){
+                           ^
+make[2]: *** [CMakeFiles/dart.dir/dart.cpp.o] Error 1
+make[1]: *** [CMakeFiles/dart.dir/all] Error 2
+make: *** [all] Error 2
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0mIn file included from /home/jslater/Documents/computervision/dart/dart.cpp:13:0:
+/home/jslater/Documents/computervision/dart/p1.cpp: In function ‘int detect(cv::Mat&, cv::Mat&, cv::Mat&)’:
+/home/jslater/Documents/computervision/dart/p1.cpp:204:27: error: could not convert ‘(& line)->cv::Mat::at<cv::Vec<unsigned char, 3> >(i, j)’ from ‘cv::Vec<unsigned char, 3>’ to ‘bool’
+    if (line.at<Vec3b>(i,j))[0]{
+                           ^
+/home/jslater/Documents/computervision/dart/p1.cpp:204:29: error: expected identifier before numeric constant
+    if (line.at<Vec3b>(i,j))[0]{
+                             ^
+/home/jslater/Documents/computervision/dart/p1.cpp: In lambda function:
+/home/jslater/Documents/computervision/dart/p1.cpp:205:5: error: ‘numlines’ is not captured
+     numlines++;
+     ^
+/home/jslater/Documents/computervision/dart/p1.cpp: In function ‘int detect(cv::Mat&, cv::Mat&, cv::Mat&)’:
+/home/jslater/Documents/computervision/dart/p1.cpp:206:4: warning: lambda expressions only available with -std=c++11 or -std=gnu++11 [enabled by default]
+    }
+    ^
+/home/jslater/Documents/computervision/dart/p1.cpp:207:4: error: expected ‘;’ before ‘if’
+    if (circle.at<uchar>(i,j)){
+    ^
+make[2]: *** [CMakeFiles/dart.dir/dart.cpp.o] Error 1
+make[1]: *** [CMakeFiles/dart.dir/all] Error 2
+make: *** [all] Error 2
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m makepython scriptmake[Kpython script
+test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3test1test2test3[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0mIn file included from /home/jslater/Documents/computervision/dart/dart.cpp:13:0:
+/home/jslater/Documents/computervision/dart/p1.cpp:212:15: warning: character constant too long for its type [enabled by default]
+  std::cout << 'numlines ' << numlines << ', numcricles ' << numcricles << std::endl;
+               ^
+/home/jslater/Documents/computervision/dart/p1.cpp:212:42: warning: character constant too long for its type [enabled by default]
+  std::cout << 'numlines ' << numlines << ', numcricles ' << numcricles << std::endl;
+                                          ^
+/home/jslater/Documents/computervision/dart/p1.cpp: In function ‘int detect(cv::Mat&, cv::Mat&, cv::Mat&)’:
+/home/jslater/Documents/computervision/dart/p1.cpp:212:61: error: ‘numcricles’ was not declared in this scope
+  std::cout << 'numlines ' << numlines << ', numcricles ' << numcricles << std::endl;
+                                                             ^
+make[2]: *** [CMakeFiles/dart.dir/dart.cpp.o] Error 1
+make[1]: *** [CMakeFiles/dart.dir/all] Error 2
+make: *** [all] Error 2
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0mIn file included from /home/jslater/Documents/computervision/dart/dart.cpp:13:0:
+/home/jslater/Documents/computervision/dart/p1.cpp:212:15: warning: character constant too long for its type [enabled by default]
+  std::cout << 'numlines ' << numlines << ', numcricles ' << numcircles << std::endl;
+               ^
+/home/jslater/Documents/computervision/dart/p1.cpp:212:42: warning: character constant too long for its type [enabled by default]
+  std::cout << 'numlines ' << numlines << ', numcricles ' << numcircles << std::endl;
+                                          ^
+[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m makepython script
+test1test2test3numlines171, numcricles 4777
+test1test2test3numlines98, numcricles 1195
+test1test2test3numlines10, numcricles 4528
+test1test2test3numlines2, numcricles 2794
+test1test2test3numlines42, numcricles 5075
+test1test2test3numlines11384, numcricles 28385
+test1test2test3numlines4, numcricles 2037
+test1test2test3numlines16, numcricles 5561
+test1test2test3numlines9, numcricles 4782
+test1test2test3numlines73, numcricles 6689
+test1test2test3numlines48, numcricles 8007
+test1test2test3numlines47, numcricles 4798
+test1test2test3numlines48, numcricles 5365
+test1test2test3numlines2, numcricles 2891
+test1test2test3numlines106, numcricles 7425
+test1test2test3numlines9, numcricles 3953
+test1test2test3numlines10, numcricles 4203
+test1test2test3numlines1081, numcricles 12490
+test1test2test3numlines4, numcricles 1355
+test1test2test3numlines4, numcricles 2915
+test1test2test3numlines4, numcricles 3361
+test1test2test3numlines961, numcricles 15404
+test1test2test3numlines5, numcricles 3624
+test1test2test3numlines5, numcricles 2546
+test1test2test3numlines5, numcricles 4884
+test1test2test3numlines6, numcricles 3289
+test1test2test3numlines36, numcricles 11572
+test1test2test3numlines61, numcricles 12354
+test1test2test3numlines13766, numcricles 33683
+test1test2test3numlines4, numcricles 3435
+test1test2test3numlines61, numcricles 7184
+test1test2test3numlines30, numcricles 4250
+test1test2test3numlines3, numcricles 1165
+test1test2test3numlines39, numcricles 10503
+test1test2test3numlines7200, numcricles 18986
+test1test2test3numlines1418, numcricles 222
+test1test2test3numlines1373, numcricles 21
+test1test2test3numlines1114, numcricles 576
+test1test2test3numlines9, numcricles 4352
+test1test2test3numlines32, numcricles 2989
+test1test2test3numlines26, numcricles 2214
+test1test2test3numlines38, numcricles 179
+test1test2test3numlines116, numcricles 4824
+test1test2test3numlines33, numcricles 1514
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m makepython script
+test1test2test3numlines171, numcricles 4777
+test1test2test3numlines98, numcricles 1195
+new image
+test1test2test3numlines10, numcricles 4531
+new image
+test1test2test3numlines2, numcricles 2795
+test1test2test3numlines42, numcricles 5078
+test1test2test3numlines11384, numcricles 28385
+new image
+test1test2test3numlines4, numcricles 2037
+new image
+test1test2test3numlines16, numcricles 5560
+test1test2test3numlines9, numcricles 4780
+test1test2test3numlines73, numcricles 6688
+new image
+test1test2test3numlines48, numcricles 8007
+test1test2test3numlines47, numcricles 4798
+test1test2test3numlines48, numcricles 5365
+new image
+test1test2test3numlines2, numcricles 2890
+test1test2test3numlines106, numcricles 7423
+new image
+test1test2test3numlines9, numcricles 3955
+test1test2test3numlines10, numcricles 4197
+new image
+test1test2test3numlines1081, numcricles 12490
+new image
+test1test2test3numlines4, numcricles 2912
+test1test2test3numlines4, numcricles 3362
+test1test2test3numlines961, numcricles 15404
+test1test2test3numlines29, numcricles 1373
+new image
+test1test2test3numlines5, numcricles 3624
+new image
+test1test2test3numlines5, numcricles 2546
+test1test2test3numlines5, numcricles 4884
+test1test2test3numlines6, numcricles 3289
+new image
+test1test2test3numlines36, numcricles 11572
+test1test2test3numlines61, numcricles 12355
+test1test2test3numlines13766, numcricles 33685
+new image
+test1test2test3numlines4, numcricles 3426
+test1test2test3numlines61, numcricles 7185
+new image
+test1test2test3numlines13, numcricles 10664
+test1test2test3numlines35, numcricles 4158
+test1test2test3numlines3, numcricles 1165
+test1test2test3numlines7204, numcricles 18978
+test1test2test3numlines1119, numcricles 578
+test1test2test3numlines1421, numcricles 2
+test1test2test3numlines1377, numcricles 26
+new image
+test1test2test3numlines9, numcricles 4352
+test1test2test3numlines32, numcricles 2989
+test1test2test3numlines26, numcricles 2216
+test1test2test3numlines38, numcricles 187
+test1test2test3numlines23, numcricles 1599
+test1test2test3numlines116, numcricles 4817
+new image
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python script
+dart7.jpg
+test1test2test3numlines171, numcricles 4777
+test1test2test3numlines98, numcricles 1195
+dart0.jpg
+test1test2test3numlines10, numcricles 4530
+dart4.jpg
+test1test2test3numlines11347, numcricles 28385
+test1test2test3numlines1798, numcricles 2722
+test1test2test3numlines4587, numcricles 5075
+dart11.jpg
+test1test2test3numlines4, numcricles 2037
+dart2.jpg
+test1test2test3numlines16, numcricles 5559
+test1test2test3numlines9, numcricles 4780
+test1test2test3numlines73, numcricles 6688
+dart5.jpg
+test1test2test3numlines48, numcricles 8007
+test1test2test3numlines50, numcricles 5610
+test1test2test3numlines49, numcricles 4734
+dart6.jpg
+test1test2test3numlines2, numcricles 2891
+test1test2test3numlines106, numcricles 7423
+dart15.jpg
+test1test2test3numlines9, numcricles 3953
+test1test2test3numlines10, numcricles 4200
+dart1.jpg
+test1test2test3numlines1081, numcricles 12494
+dart9.jpg
+test1test2test3numlines961, numcricles 15403
+test1test2test3numlines511, numcricles 2884
+test1test2test3numlines635, numcricles 3372
+test1test2test3numlines29, numcricles 1329
+dart12.jpg
+test1test2test3numlines4, numcricles 3624
+dart13.jpg
+test1test2test3numlines5, numcricles 2546
+test1test2test3numlines5, numcricles 4884
+test1test2test3numlines6, numcricles 3284
+dart14.jpg
+test1test2test3numlines36, numcricles 11570
+test1test2test3numlines12596, numcricles 32836
+test1test2test3numlines2284, numcricles 12364
+dart3.jpg
+test1test2test3numlines4, numcricles 3426
+test1test2test3numlines61, numcricles 7176
+dart10.jpg
+test1test2test3numlines13, numcricles 10664
+test1test2test3numlines35, numcricles 4158
+test1test2test3numlines3, numcricles 1165
+test1test2test3numlines7204, numcricles 18964
+test1test2test3numlines1118, numcricles 574
+test1test2test3numlines1421, numcricles 2
+test1test2test3numlines1377, numcricles 23
+dart8.jpg
+test1test2test3numlines9, numcricles 4352
+test1test2test3numlines17, numcricles 2167
+test1test2test3numlines17, numcricles 179
+test1test2test3numlines16, numcricles 1599
+test1test2test3numlines95, numcricles 4817
+test1test2test3numlines88, numcricles 3065
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m makepython script
+dart7.jpg
+test1test2test3numlines170, numcricles 4778
+test1test2test3numlines97, numcricles 1216
+dart0.jpg
+test1test2test3numlines10, numcricles 4530
+dart4.jpg
+test1test2test3numlines2, numcricles 2796
+test1test2test3numlines42, numcricles 5076
+test1test2test3numlines11384, numcricles 28385
+dart11.jpg
+test1test2test3numlines4, numcricles 2037
+dart2.jpg
+test1test2test3numlines16, numcricles 5561
+test1test2test3numlines9, numcricles 4781
+test1test2test3numlines73, numcricles 6688
+dart5.jpg
+test1test2test3numlines48, numcricles 8007
+test1test2test3numlines47, numcricles 4796
+test1test2test3numlines48, numcricles 5365
+dart6.jpg
+test1test2test3numlines2, numcricles 2890
+test1test2test3numlines106, numcricles 7425
+dart15.jpg
+test1test2test3numlines9, numcricles 3953
+test1test2test3numlines10, numcricles 4197
+dart1.jpg
+test1test2test3numlines1081, numcricles 12490
+dart9.jpg
+test1test2test3numlines4, numcricles 2912
+test1test2test3numlines4, numcricles 3360
+test1test2test3numlines3, numcricles 1334
+test1test2test3numlines961, numcricles 15408
+dart12.jpg
+test1test2test3numlines5, numcricles 3624
+dart13.jpg
+test1test2test3numlines5, numcricles 2546
+test1test2test3numlines5, numcricles 4884
+test1test2test3numlines6, numcricles 3287
+dart14.jpg
+test1test2test3numlines36, numcricles 11573
+test1test2test3numlines12596, numcricles 32836
+test1test2test3numlines2284, numcricles 12364
+dart3.jpg
+test1test2test3numlines4, numcricles 3428
+test1test2test3numlines61, numcricles 7177
+dart10.jpg
+test1test2test3numlines13, numcricles 10664
+test1test2test3numlines35, numcricles 4153
+test1test2test3numlines3, numcricles 1165
+test1test2test3numlines7204, numcricles 18977
+test1test2test3numlines1119, numcricles 576
+test1test2test3numlines1421, numcricles 2
+test1test2test3numlines1377, numcricles 12
+dart8.jpg
+test1test2test3numlines9, numcricles 4352
+test1test2test3numlines32, numcricles 2990
+test1test2test3numlines26, numcricles 2215
+test1test2test3numlines38, numcricles 188
+test1test2test3numlines23, numcricles 1599
+test1test2test3numlines116, numcricles 4825
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python scriptmake[K
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m makepython script
+dart7.jpg
+test1test2test3numlines167, numcricles 2845
+test1test2test3numlines78, numcricles 808
+dart0.jpg
+test1test2test3numlines67, numcricles 3289
+dart4.jpg
+test1test2test3numlines2, numcricles 2423
+test1test2test3numlines61, numcricles 1801
+test1dart11.jpg
+test1test2test3numlines4, numcricles 2103
+dart2.jpg
+test1test2test3numlines17, numcricles 4862
+test1test2test3numlines46, numcricles 5484
+test1test2test3numlines158, numcricles 5527
+dart5.jpg
+test1test2test3numlines205, numcricles 5959
+test1test2test3numlines207, numcricles 4993
+test1test2test3numlines214, numcricles 6345
+dart6.jpg
+test1test2test3numlines2, numcricles 3398
+test1test2test3numlines196, numcricles 7529
+dart15.jpg
+test1test2test3numlines31, numcricles 2528
+test1test2test3numlines74, numcricles 1548
+dart1.jpg
+test1test2test3numlines706, numcricles 8280
+dart9.jpg
+test1test2test3numlines2, numcricles 566
+test1test2test3numlines4, numcricles 570
+test1test2test3numlines1181, numcricles 7831
+test1test2test3numlines32, numcricles 626
+dart12.jpg
+test1test2test3numlines4, numcricles 3756
+dart13.jpg
+test1test2test3numlines7, numcricles 1786
+test1test2test3numlines93, numcricles 4630
+test1test2test3numlines96, numcricles 918
+dart14.jpg
+test1test2test3numlines83, numcricles 7319
+test1test2test3numlines198, numcricles 5979
+test1dart3.jpg
+test1test2test3numlines1, numcricles 2685
+test1test2test3numlines235, numcricles 5890
+dart10.jpg
+test1test2test3numlines66, numcricles 5487
+test1test2test3numlines70, numcricles 2554
+test1test2test3numlines29, numcricles 1117
+test1test2test3numlines69, numcricles 555
+test1test2test3numlines75, numcricles 0
+test1test2test3numlines71, numcricles 2
+test1dart8.jpg
+test1test2test3numlines46, numcricles 1149
+test1test2test3numlines82, numcricles 3730
+test1test2test3numlines103, numcricles 808
+test1test2test3numlines110, numcricles 158
+test1test2test3numlines98, numcricles 1079
+test1test2test3numlines200, numcricles 1440
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python scriptmake[K
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m makepython script
+dart7.jpg
+test1test2test3numlines2, numcricles 2240
+test1test2test3numlines262, numcricles 4200
+dart0.jpg
+test1test2test3numlines62, numcricles 3378
+dart4.jpg
+test1test2test3numlines2, numcricles 3080
+test1test2test3numlines65, numcricles 2182
+test1dart11.jpg
+test1test2test3numlines4, numcricles 2847
+dart2.jpg
+test1test2test3numlines16, numcricles 5560
+test1test2test3numlines49, numcricles 6661
+test1test2test3numlines252, numcricles 7119
+dart5.jpg
+test1test2test3numlines576, numcricles 7287
+test1test2test3numlines593, numcricles 6644
+test1test2test3numlines633, numcricles 8282
+dart6.jpg
+test1test2test3numlines2, numcricles 3922
+test1test2test3numlines2410, numcricles 9539
+dart15.jpg
+test1test2test3numlines39, numcricles 3023
+test1test2test3numlines144, numcricles 1984
+dart1.jpg
+test1test2test3numlines5136, numcricles 11738
+dart9.jpg
+test1test2test3numlines2, numcricles 932
+test1test2test3numlines2, numcricles 859
+test1^CTraceback (most recent call last):
+  File "script", line 6, in <module>
+    subprocess.call(['./dart','dartImages/' + files,'dartDetect/' + files[:-4] + 'Output.jpg', 'dartDetect/' + files])
+  File "/usr/lib/python2.7/subprocess.py", line 522, in call
+    return Popen(*popenargs, **kwargs).wait()
+  File "/usr/lib/python2.7/subprocess.py", line 1376, in wait
+    pid, sts = _eintr_retry_call(os.waitpid, self.pid, 0)
+  File "/usr/lib/python2.7/subprocess.py", line 476, in _eintr_retry_call
+    return func(*args)
+KeyboardInterrupt
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m makepython script
+dart7.jpg
+test1test2test3numlines131, numcricles 1205
+test1test2test3numlines60, numcricles 427
+dart0.jpg
+test1test2test3numlines45, numcricles 2869
+dart4.jpg
+test1test2test3numlines2, numcricles 1839
+test1test2test3numlines58, numcricles 1834
+test1dart11.jpg
+test1test2test3numlines2, numcricles 1590
+dart2.jpg
+test1test2test3numlines10, numcricles 2540
+test1test2test3numlines19, numcricles 2941
+test1test2test3numlines51, numcricles 2749
+dart5.jpg
+test1test2test3numlines32, numcricles 4092
+test1test2test3numlines31, numcricles 3257
+test1test2test3numlines33, numcricles 5024
+dart6.jpg
+test1test2test3numlines2, numcricles 2241
+test1test2test3numlines30, numcricles 5250
+dart15.jpg
+test1test2test3numlines27, numcricles 1993
+test1test2test3numlines39, numcricles 1247
+dart1.jpg
+test1test2test3numlines271, numcricles 6454
+dart9.jpg
+test1test2test3numlines2, numcricles 258
+test1test2test3numlines4, numcricles 301
+test1test2test3numlines3, numcricles 569
+test1test2test3numlines700, numcricles 6964
+dart12.jpg
+test1test2test3numlines4, numcricles 3325
+dart13.jpg
+test1test2test3numlines18, numcricles 1564
+test1test2test3numlines41, numcricles 3568
+test1test2test3numlines43, numcricles 514
+dart14.jpg
+test1test2test3numlines81, numcricles 6319
+test1test2test3numlines172, numcricles 5021
+test1dart3.jpg
+test1test2test3numlines4, numcricles 1636
+test1test2test3numlines36, numcricles 2993
+dart10.jpg
+test1test2test3numlines30, numcricles 4622
+test1test2test3numlines15, numcricles 2181
+test1test2test3numlines14, numcricles 502
+test1test2test3numlines14, numcricles 0
+test1test2test3numlines14, numcricles 0
+test1test2test3numlines10, numcricles 857
+test1dart8.jpg
+test1test2test3numlines52, numcricles 3377
+test1test2test3numlines69, numcricles 401
+test1test2test3numlines69, numcricles 158
+test1test2test3numlines70, numcricles 0
+test1test2test3numlines68, numcricles 856
+test1test2test3numlines78, numcricles 418
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python scriptmake[K
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m makepython script
+dart7.jpg
+test1test2test3numlines99, numcricles 432
+test1test2test3numlines56, numcricles 69
+dart0.jpg
+test1test2test3numlines31, numcricles 2436
+dart4.jpg
+test1test2test3numlines2, numcricles 1543
+test1test2test3numlines59, numcricles 1944
+test1dart11.jpg
+test1test2test3numlines2, numcricles 966
+dart2.jpg
+test1test2test3numlines11, numcricles 1014
+test1test2test3numlines5, numcricles 534
+test1test2test3numlines25, numcricles 1012
+dart5.jpg
+test1test2test3numlines10, numcricles 2801
+test1test2test3numlines9, numcricles 2028
+test1test2test3numlines9, numcricles 3396
+dart6.jpg
+test1test2test3numlines2, numcricles 1132
+test1test2test3numlines29, numcricles 2640
+dart15.jpg
+test1test2test3numlines14, numcricles 1450
+test1test2test3numlines13, numcricles 387
+dart1.jpg
+test1test2test3numlines228, numcricles 5226
+dart9.jpg
+test1test2test3numlines217, numcricles 4490
+test1test2test3numlines166, numcricles 53
+test1test2test3numlines187, numcricles 56
+test1test2test3numlines18, numcricles 309
+dart12.jpg
+test1test2test3numlines2, numcricles 2304
+dart13.jpg
+test1test2test3numlines5, numcricles 1210
+test1test2test3numlines7, numcricles 2454
+test1test2test3numlines8, numcricles 198
+dart14.jpg
+test1test2test3numlines58, numcricles 4919
+test1dart3.jpg
+test1test2test3numlines2, numcricles 837
+test1test2test3numlines18, numcricles 1445
+dart10.jpg
+test1test2test3numlines2, numcricles 1396
+test1test2test3numlines2, numcricles 327
+test1test2test3numlines9, numcricles 3128
+test1dart8.jpg
+test1test2test3numlines17, numcricles 2650
+test1test2test3numlines20, numcricles 118
+test1test2test3numlines22, numcricles 90
+test1test2test3numlines21, numcricles 0
+test1test2test3numlines29, numcricles 152
+test1test2test3numlines23, numcricles 468
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python scriptmake[K
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m makepython script
+dart7.jpg
+test1test2test3numlines99, numcricles 432
+test1test2test3numlines56, numcricles 69
+dart0.jpg
+test1test2test3numlines31, numcricles 2436
+dart4.jpg
+test1test2test3numlines2, numcricles 1543
+test1test2test3numlines59, numcricles 1944
+test1dart11.jpg
+test1test2test3numlines2, numcricles 966
+dart2.jpg
+test1test2test3numlines4, numcricles 534
+test1test2test3numlines11, numcricles 1014
+test1test2test3numlines25, numcricles 1012
+dart5.jpg
+test1test2test3numlines10, numcricles 2801
+test1test2test3numlines9, numcricles 2028
+test1test2test3numlines9, numcricles 3396
+dart6.jpg
+test1test2test3numlines1, numcricles 1132
+test1test2test3numlines28, numcricles 2640
+dart15.jpg
+test1test2test3numlines14, numcricles 1450
+test1test2test3numlines13, numcricles 387
+dart1.jpg
+test1test2test3numlines228, numcricles 5226
+dart9.jpg
+test1test2test3numlines217, numcricles 4490
+test1test2test3numlines166, numcricles 53
+test1test2test3numlines187, numcricles 56
+test1test2test3numlines18, numcricles 309
+dart12.jpg
+test1test2test3numlines2, numcricles 2304
+dart13.jpg
+test1test2test3numlines5, numcricles 1210
+test1test2test3numlines7, numcricles 2454
+test1test2test3numlines8, numcricles 198
+dart14.jpg
+test1test2test3numlines58, numcricles 4919
+test1dart3.jpg
+test1test2test3numlines2, numcricles 837
+test1test2test3numlines18, numcricles 1445
+dart10.jpg
+test1test2test3numlines9, numcricles 3128
+test1test2test3numlines8, numcricles 1393
+test1test2test3numlines7, numcricles 327
+test1dart8.jpg
+test1test2test3numlines17, numcricles 2650
+test1test2test3numlines20, numcricles 118
+test1test2test3numlines22, numcricles 90
+test1test2test3numlines21, numcricles 0
+test1test2test3numlines22, numcricles 469
+test1test2test3numlines29, numcricles 152
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python scriptmake[K
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0mIn file included from /home/jslater/Documents/computervision/dart/dart.cpp:13:0:
+/home/jslater/Documents/computervision/dart/p1.cpp: In function ‘int detect(cv::Mat&, cv::Mat&, cv::Mat&)’:
+/home/jslater/Documents/computervision/dart/p1.cpp:217:2: error: expected ‘;’ before ‘return’
+  return 0;
+  ^
+make[2]: *** [CMakeFiles/dart.dir/dart.cpp.o] Error 1
+make[1]: *** [CMakeFiles/dart.dir/all] Error 2
+make: *** [all] Error 2
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m make
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m makepython script
+dart7.jpg
+test1test2test3numlines99, numcricles 432
+test1test2test3numlines56, numcricles 69
+test1test2test3numlines99, numcricles 432
+test1test2test3numlines56, numcricles 69
+dart0.jpg
+test1test2test3numlines31, numcricles 2436
+test1test2test3numlines31, numcricles 2438
+dart4.jpg
+test1test2test3numlines2, numcricles 1543
+test1test2test3numlines59, numcricles 1944
+test1dart11.jpg
+test1test2test3numlines2, numcricles 966
+test1test2test3numlines2, numcricles 966
+dart2.jpg
+test1test2test3numlines11, numcricles 1014
+test1test2test3numlines5, numcricles 534
+test1test2test3numlines25, numcricles 1012
+test1test2test3numlines21, numcricles 1014
+test1test2test3numlines8, numcricles 534
+test1test2test3numlines25, numcricles 1012
+dart5.jpg
+test1test2test3numlines2, numcricles 2028
+test1test2test3numlines2, numcricles 3396
+test1test2test3numlines10, numcricles 2801
+test1test2test3numlines9, numcricles 2028
+test1test2test3numlines9, numcricles 3396
+test1test2test3numlines10, numcricles 2801
+dart6.jpg
+test1test2test3numlines2, numcricles 1132
+test1test2test3numlines29, numcricles 2640
+test1test2test3numlines11, numcricles 1132
+test1test2test3numlines29, numcricles 2640
+dart15.jpg
+test1test2test3numlines14, numcricles 1450
+test1test2test3numlines13, numcricles 387
+test1test2test3numlines14, numcricles 1452
+test1test2test3numlines13, numcricles 387
+dart1.jpg
+test1test2test3numlines228, numcricles 5226
+test1test2test3numlines228, numcricles 5226
+dart9.jpg
+test1test2test3numlines217, numcricles 4490
+test1test2test3numlines166, numcricles 53
+test1test2test3numlines187, numcricles 56
+test1test2test3numlines18, numcricles 309
+test1test2test3numlines217, numcricles 4490
+test1test2test3numlines166, numcricles 53
+test1test2test3numlines187, numcricles 56
+test1test2test3numlines18, numcricles 309
+dart12.jpg
+test1test2test3numlines2, numcricles 2304
+test1test2test3numlines2, numcricles 2312
+dart13.jpg
+test1test2test3numlines5, numcricles 1210
+test1test2test3numlines7, numcricles 2454
+test1test2test3numlines8, numcricles 198
+test1test2test3numlines6, numcricles 1210
+test1test2test3numlines7, numcricles 2454
+test1test2test3numlines8, numcricles 198
+dart14.jpg
+test1test2test3numlines58, numcricles 4919
+test1dart3.jpg
+test1test2test3numlines2, numcricles 837
+test1test2test3numlines18, numcricles 1445
+test1test2test3numlines15, numcricles 835
+test1test2test3numlines18, numcricles 1445
+dart10.jpg
+test1test2test3numlines9, numcricles 3128
+test1test2test3numlines8, numcricles 1393
+test1test2test3numlines7, numcricles 327
+test1test2test3numlines8, numcricles 356
+test1dart8.jpg
+test1test2test3numlines17, numcricles 2650
+test1test2test3numlines21, numcricles 90
+test1test2test3numlines20, numcricles 0
+test1test2test3numlines23, numcricles 118
+test1test2test3numlines29, numcricles 152
+test1test2test3numlines23, numcricles 468
+test1test2test3numlines27, numcricles 2650
+test1test2test3numlines27, numcricles 90
+test1test2test3numlines27, numcricles 0
+test1test2test3numlines29, numcricles 118
+test1test2test3numlines29, numcricles 152
+test1test2test3numlines23, numcricles 468
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m python scriptmake[K
+[35m[1mScanning dependencies of target dart
+[0m[100%] [32mBuilding CXX object CMakeFiles/dart.dir/dart.cpp.o
+[0m[31m[1mLinking CXX executable dart
+[0m[100%] Built target dart
+[01;32mjslater@jslater-VirtualBox[01;34m ~/Documents/computervision/dart $[00m makepython script
+dart7.jpg
+test1test2test3numlines99, numcricles 432
+test1test2test3numlines56, numcricles 69
+test1test2test3numlines99, numcricles 432
+test1test2test3numlines56, numcricles 69
+dart0.jpg
+test1test2test3numlines31, numcricles 2436
+test1test2test3numlines31, numcricles 2438
+dart4.jpg
+test1test2test3numlines2, numcricles 1543
+test1test2test3numlines59, numcricles 1944
+test1dart11.jpg
+test1test2test3numlines2, numcricles 966
+test1test2test3numlines2, numcricles 966
+dart2.jpg
+test1test2test3numlines11, numcricles 1014
+test1test2test3numlines5, numcricles 534
+test1test2test3numlines25, numcricles 1012
+test1test2test3numlines21, numcricles 1014
+test1test2test3numlines8, numcricles 534
+test1test2test3numlines25, numcricles 1012
+dart5.jpg
+test1test2test3numlines2, numcricles 2028
+test1test2test3numlines2, numcricles 3396
+test1test2test3numlines10, numcricles 2801
+test1test2test3numlines9, numcricles 2028
+test1test2test3numlines9, numcricles 3396
+test1test2test3numlines10, numcricles 2801
+dart6.jpg
+test1test2test3numlines2, numcricles 1132
+test1test2test3numlines29, numcricles 2640
+test1test2test3numlines11, numcricles 1132
+test1test2test3numlines29, numcricles 2640
+dart15.jpg
+test1test2test3numlines14, numcricles 1450
+test1test2test3numlines13, numcricles 387
+test1test2test3numlines14, numcricles 1452
+test1test2test3numlines13, numcricles 387
+dart1.jpg
+test1test2test3numlines228, numcricles 5226
+test1test2test3numlines228, numcricles 5226
+dart9.jpg
+test1test2test3numlines2, numcricles 53
+test1test2test3numlines2, numcricles 56
+test1test2test3numlines2, numcricles 309
+test1test2test3numlines217, numcricles 4490
+test1test2test3numlines166, numcricles 53
+test1test2test3numlines187, numcricles 56
+test1test2test3numlines18, numcricles 309
+test1test2test3numlines217, numcricles 4490
+dart12.jpg
+test1test2test3numlines2, numcricles 2304
+test1test2test3numlines2, numcricles 2312
+dart13.jpg
+test1test2test3numlines5, numcricles 1210
+test1test2test3numlines7, numcricles 2454
+test1test2test3numlines8, numcricles 198
+test1test2test3numlines6, numcricles 1210
+test1test2test3numlines7, numcricles 2454
+test1test2test3numlines8, numcricles 198
+dart14.jpg
+test1test2test3numlines57, numcricles 4919
+test1dart3.jpg
+test1test2test3numlines2, numcricles 837
+test1test2test3numlines18, numcricles 1445
+test1test2test3numlines15, numcricles 835
+test1test2test3numlines18, numcricles 1445
+dart10.jpg
+test1test2test3numlines9, numcricles 3128
+test1test2test3numlines8, numcricles 1393
+test1test2test3numlines7, numcricles 327
+test1test2test3numlines8, numcricles 356
+test1test2test3numlines8, numcricles 0
+test1test2test3numlines8, numcricles 0
+test1dart8.jpg
+test1test2test3numlines7, numcricles 118
+test1test2test3nu
